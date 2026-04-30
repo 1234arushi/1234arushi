@@ -1,16 +1,20 @@
-## Hi there 👋
+## Backend + Data enthusiast  💡
 
-<!--
-**1234arushi/1234arushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Tech Stack
+
+**Languages:**  
+Go, Python, C++
+
+**Backend:**  
+Node.js, Go
+
+**Databases:**  
+PostgreSQL, MySQL
+
+**Tools & Technologies:**  
+Docker, Git, AWS
