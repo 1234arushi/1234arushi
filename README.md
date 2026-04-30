@@ -1,6 +1,6 @@
 ## Backend + Data enthusiast  💡
 
-- 🌱 Currently learning
+- Currently learning
 
 
 ---
