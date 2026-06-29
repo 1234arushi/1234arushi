@@ -1,6 +1,6 @@
-## Backend + Data enthusiast  💡
+## Backend Developer | 2+ years of experience | AI/Data enthusiast  💡
 
-- Currently learning
+Passionate about leveraging AI to build practical products that simplify real-world problems.
 
 
 ---
@@ -18,3 +18,6 @@ PostgreSQL, MySQL
 
 **Tools & Technologies:**  
 Docker, Git, AWS
+
+### AI
+OpenAI API , Prompt Engineering
