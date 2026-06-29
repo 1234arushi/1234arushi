@@ -9,15 +9,11 @@ Passionate about leveraging AI to build practical products that simplify real-wo
 
 **Languages:**  
 Go, Python, C++
-
 **Backend:**  
 Node.js, Go
-
 **Databases:**  
 PostgreSQL, MySQL
-
 **Tools & Technologies:**  
 Docker, Git, AWS
-
-### AI
+**AI:**
 OpenAI API , Prompt Engineering
