@@ -1,4 +1,4 @@
-## Backend Developer | 2+ years of experience | AI/Data enthusiast  💡
+## Backend Developer | 2+ years of experience
 
 Passionate about leveraging AI to build practical products that simplify real-world problems.
 
