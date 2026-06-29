@@ -1,9 +1,8 @@
 ## Backend Developer | 2+ years of experience
 
 Passionate about leveraging AI to build practical products that simplify real-world problems.
-
 ---
-# Tech Stack
+## Tech Stack
 
 **Languages:**  
 Go, Python, C++
@@ -18,4 +17,4 @@ PostgreSQL, MySQL
 Docker, Git, AWS
 
 **AI:**
-OpenAI API , Prompt Engineering
+OpenAI API, Prompt Engineering
