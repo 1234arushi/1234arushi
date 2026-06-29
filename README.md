@@ -10,7 +10,7 @@ Passionate about leveraging AI to build practical products that simplify real-wo
 Go, Python, C++
 
 **Backend:**  
-Node.js, Go
+Go, Node.js
 
 **Databases:**  
 PostgreSQL, MySQL
